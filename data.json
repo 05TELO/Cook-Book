@@ -1,0 +1,77 @@
+[
+    {
+      "model": "cook_book.product",
+      "pk": 1,
+      "fields": {
+        "name": "Яйцо",
+        "cook_count": 0
+      }
+    },
+    {
+      "model": "cook_book.product",
+      "pk": 2,
+      "fields": {
+        "name": "Молоко",
+        "cook_count": 0
+      }
+    },
+    {
+        "model": "cook_book.product",
+        "pk": 3,
+        "fields": {
+          "name": "Картофель",
+          "cook_count": 0
+        }
+    },
+    {
+        "model": "cook_book.product",
+        "pk": 4,
+        "fields": {
+          "name": "Мука",
+          "cook_count": 0
+        }
+    },
+    {
+        "model": "cook_book.product",
+        "pk": 5,
+        "fields": {
+          "name": "Вода",
+          "cook_count": 0
+        }
+    },
+    {
+      "model": "cook_book.recipe",
+      "pk": 1,
+      "fields": {
+        "name": "Омлет"
+      }
+    },
+    {
+      "model": "cook_book.recipe",
+      "pk": 2,
+      "fields": {
+        "name": "Блины"
+      }
+    },
+    {
+      "model": "cook_book.recipe",
+      "pk": 3,
+      "fields": {
+        "name": "Картофельное пюре"
+      }
+    },
+    {
+      "model": "cook_book.recipe",
+      "pk": 4,
+      "fields": {
+        "name": "Сырники"
+      }
+    },
+    {
+      "model": "cook_book.recipe",
+      "pk": 5,
+      "fields": {
+        "name": "Яичница"
+      }
+    }
+  ]

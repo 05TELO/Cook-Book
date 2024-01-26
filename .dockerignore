@@ -1,0 +1,10 @@
+**/*.py[cod]
+.git
+.env
+.env.example
+.gitignore
+.venv/
+.venv
+__pycache__
+Dockerfile
+postgres/
